@@ -1,0 +1,19 @@
+.fruitbg{
+    background-color: rgb(241, 208, 111);
+    min-height: 100vh;
+}
+.fruitdiv{
+    border-radius: 10px;
+}
+.fruith1{
+    font-weight: 100;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.frudiv{
+    margin-left: auto;
+    margin-right: auto;
+}
+.fruitspan{
+    color: rgb(241, 208, 111);
+}

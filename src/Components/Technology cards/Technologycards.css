@@ -1,0 +1,42 @@
+.image{
+    height: 200px;
+    width: 200px;
+    margin-left: auto;
+
+}
+.div1{
+text-align: center;
+}
+
+.cardDiv{
+    border-radius: 20px!important;
+    
+}
+.bgColor{
+    background-color: rgb(203, 242, 244);
+}
+.card1{
+    border-top:7px solid crimson!important ;
+    color: gray;
+}
+.card2{
+    border-top:7px solid rgb(20, 180, 220)!important ;
+    color: gray;
+}
+.card3{
+    border-top:7px solid rgb(20, 220, 110)!important ;
+    color: gray;
+}
+.card4{
+    border-top:7px solid rgb(220, 163, 20)!important ;
+    color: gray;
+}
+.h2{
+    color: rgba(43, 42, 42, 0.982);
+    font-weight: bolder;
+}
+.h1{
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+

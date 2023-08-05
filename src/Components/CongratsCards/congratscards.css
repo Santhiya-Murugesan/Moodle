@@ -1,0 +1,24 @@
+.img1{
+    border-radius: 50%;
+  }
+  .innerDiv{
+    background-color: rgb(96, 244, 247);
+    width: 50%;
+   margin-left: auto;
+   margin-right: auto;
+  }
+  .mymainDiv{
+    background-image: url("https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png");
+    height: 100%;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .name{
+    font-weight: bolder;
+    font-size: xx-large;
+  }
+  .heading{
+    color: whitesmoke!important;
+  }

@@ -1,0 +1,24 @@
+.hookhead{
+    color: rgb(174, 243, 218);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-weight: 100px;
+    text-decoration: underline;
+}
+.hookbg{
+    background-image: url("https://t3.ftcdn.net/jpg/02/45/66/54/360_F_245665489_q2GbRiZWzfVK8Z3XrWeiakosgTdqz9Pg.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.hooknum{
+    color: azure;
+    font-size: 100px;
+}
+.hookbut{
+    background-color: bisque;
+    color: crimson;
+    height: 70px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}

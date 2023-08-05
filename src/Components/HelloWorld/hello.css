@@ -1,0 +1,11 @@
+.background{
+    background-image: url('https://www.patterns.dev/img/reactjs/react-logo@3x.svg');
+    background-size: cover;
+    height: 100vh;
+}
+.textcolor0{
+    color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    text-align: center;
+}

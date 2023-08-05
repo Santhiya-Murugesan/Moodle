@@ -1,0 +1,13 @@
+.feedbg{
+    background-image: -webkit-linear-gradient(right,#fa78ca,#f7cde7);
+    height:100vh;
+}
+
+.fbpara{
+    font-weight: bolder;
+    font-size: xx-large!important;
+    font-size: 20px!important;
+}
+.fbfont{
+    font-size: 70px;
+}

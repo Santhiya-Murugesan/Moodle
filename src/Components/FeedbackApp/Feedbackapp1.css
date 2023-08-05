@@ -1,0 +1,10 @@
+.feedbg1{
+    background-image: -webkit-linear-gradient(right,#fa78ca,#f7cde7);
+    height:100vh;
+}
+.imgfb1{
+    height: 100px;
+    width: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}

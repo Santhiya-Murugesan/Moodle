@@ -1,0 +1,53 @@
+/* .datebg{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfyLOsunwHdHQzWXije1LpAUABdbLZcDzeauVhSpXdIhiyIoT8oE8ONnkDcy135gA1-8&usqp=CAU");
+    background-size: cover;
+    height: 100vh;
+}
+.dateip{
+    background-color: rgb(234, 218, 249);
+    color: rgb(241, 84, 116);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    height: 40px;
+}
+.datebth{
+    height: 50px;
+    margin-bottom: 10px;
+} 
+.dateh2{
+    color: rgb(179, 59, 203);
+    font-size: large;
+}
+.dateh1{
+    color: rgb(85, 80, 229);
+}
+.datebut{
+    width:210px;
+}
+.datebut1{
+    width:235px;
+} */
+
+.date-bg{
+    background-image:url("https://i.pinimg.com/originals/59/24/07/59240707512605ebc9a12a63b4ab4f76.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.date-btn{
+    border: none;
+}
+.date-p{
+    font-size: 20px;
+    font-weight: bolder;
+    color:white;
+    font-family: 'Times New Roman';
+}
+
+.df_h3{
+    color:white;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+    
+}
